@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khaybee24
+- 👋 Hi, I’m Okeowo Abdulkabir
 - 👀 I’m interested in Backend Engineering
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on projects of value
