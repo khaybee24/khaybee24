@@ -29,7 +29,7 @@
 <a href="https://twitter.com/khay__o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khay__o" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdulkabir okeowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulkabir okeowo" height="30" width="40" /></a>
 <a href="https://fb.com/www.fb.me/okeowo.a.adebayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.fb.me/okeowo.a.adebayo" height="30" width="40" /></a>
-<a href="https://instagram.com/khay_be_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khay_be_e" height="30" width="40" /></a>
+<a href="https://instagram.com/khay_be_e1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khay_be_e" height="30" width="40" /></a>
 <a href="https://medium.com/@okeowokabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@okeowokabir" height="30" width="40" /></a>
 </p>
 
