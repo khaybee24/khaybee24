@@ -17,6 +17,20 @@
 
 ---
 
+### 🏆 Achievements  
+- 🥇 **YOLO**  
+- 🦈 **Pull Shark**  
+
+---
+
+### 🏢 Organizations  
+- [@thetrosinitiative](https://github.com/thetrosinitiative)  
+- [@Barods-Global](https://github.com/Barods-Global)  
+- [@Rydr-co](https://github.com/Rydr-co)  
+- [@Olufemi-Awoyale-LLP](https://github.com/Olufemi-Awoyale-LLP)  
+
+---
+
 ### 🛠️ Tech Stack  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,typescript,javascript,postgresql,mongodb,redis,docker,nginx,linux,git" />
