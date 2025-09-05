@@ -18,16 +18,20 @@
 ---
 
 ### 🏆 Achievements  
-- 🥇 **YOLO**  
-- 🦈 **Pull Shark**  
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO Achievement"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark Achievement"/>
+</p>
 
 ---
 
 ### 🏢 Organizations  
-- [@thetrosinitiative](https://github.com/thetrosinitiative)  
-- [@Barods-Global](https://github.com/Barods-Global)  
-- [@Rydr-co](https://github.com/Rydr-co)  
-- [@Olufemi-Awoyale-LLP](https://github.com/Olufemi-Awoyale-LLP)  
+<p align="left">
+  <a href="https://github.com/thetrosinitiative"><img src="https://img.shields.io/badge/-TROS%20Initiative-181717?logo=github&style=for-the-badge" /></a>
+  <a href="https://github.com/Barods-Global"><img src="https://img.shields.io/badge/-Barods%20Global-181717?logo=github&style=for-the-badge" /></a>
+  <a href="https://github.com/Rydr-co"><img src="https://img.shields.io/badge/-Rydr%20Co-181717?logo=github&style=for-the-badge" /></a>
+  <a href="https://github.com/Olufemi-Awoyale-LLP"><img src="https://img.shields.io/badge/-Olufemi%20Awoyale%20LLP-181717?logo=github&style=for-the-badge" /></a>
+</p>
 
 ---
 
